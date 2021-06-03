@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/probstuz/pj/dotnet/first/first.csproj",
+      "projectUniqueName": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/first.csproj",
       "projectName": "first",
-      "projectPath": "/home/probstuz/pj/dotnet/first/first.csproj",
+      "projectPath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/first.csproj",
       "packagesPath": "/home/probstuz/.nuget/packages/",
-      "outputPath": "/home/probstuz/pj/dotnet/first/obj/",
+      "outputPath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/probstuz/.nuget/NuGet/NuGet.Config"

@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/probstuz/pj/dotnet/first/first.csproj",
+  "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/first.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,58 +15619,58 @@
   "RootNamespace": "first",
   "Documents": [
     {
-      "FilePath": "/home/probstuz/pj/dotnet/first/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/Views/p/Music.cshtml",
+      "TargetPath": "Views\\p\\Music.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/probstuz/pj/dotnet/first/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/Views/p/Privacy.cshtml",
+      "TargetPath": "Views\\p\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/probstuz/pj/dotnet/first/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/probstuz/pj/dotnet/first/Views/Home/Addons.cshtml",
-      "TargetPath": "Views\\Home\\Addons.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/probstuz/pj/dotnet/first/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/probstuz/pj/dotnet/first/Views/Home/Music.cshtml",
-      "TargetPath": "Views\\Home\\Music.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/probstuz/pj/dotnet/first/Views/Home/Unity.cshtml",
-      "TargetPath": "Views\\Home\\Unity.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/probstuz/pj/dotnet/first/Views/Shared/_Layout.cshtml",
+      "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/probstuz/pj/dotnet/first/Views/Home/Home.cshtml",
-      "TargetPath": "Views\\Home\\Home.cshtml",
+      "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/Views/p/Coding.cshtml",
+      "TargetPath": "Views\\p\\Coding.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/probstuz/pj/dotnet/first/Views/Shared/Error.cshtml",
+      "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/probstuz/pj/dotnet/first/Views/Home/Coding.cshtml",
-      "TargetPath": "Views\\Home\\Coding.cshtml",
+      "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/Views/p/Addons.cshtml",
+      "TargetPath": "Views\\p\\Addons.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/Views/p/Unity.cshtml",
+      "TargetPath": "Views\\p\\Unity.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/Views/p/Home.cshtml",
+      "TargetPath": "Views\\p\\Home.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],

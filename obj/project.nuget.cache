@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bDsZomjpAaZtjco7PYWb+TAiOj1QPMLbs17sMe9oQ3F/VOdFRWWfzaMzbF151E8W368+3I/yRO0LCcqOofwIjQ==",
+  "dgSpecHash": "JWwPm7pPEf9C3M+H1Nvv4HTr1yETwARQq2yxqCraRN8xNlyU08RHdJUy9KUWqf/nAojhV3HIT8UcBXEix57B7Q==",
   "success": true,
-  "projectFilePath": "/home/probstuz/pj/dotnet/first/first.csproj",
+  "projectFilePath": "/home/probstuz/pj/dotnet/apro-space-aspdotnetcore/first.csproj",
   "expectedPackageFiles": [
     "/home/probstuz/.nuget/packages/westwind.aspnetcore.livereload/0.3.2/westwind.aspnetcore.livereload.0.3.2.nupkg.sha512"
   ],
